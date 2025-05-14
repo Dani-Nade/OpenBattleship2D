@@ -25,7 +25,6 @@ Ensure you have:
 * A C++11-capable compiler
 * OpenGL & GLUT development headers
 * GLEW and FreeImage libraries
-* (Optional) CImg header (`CImg.h`)
 
 ## Building
 
