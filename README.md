@@ -2,8 +2,6 @@
 
 A simple 2D Battleship–style game in C++ leveraging OpenGL (FreeGLUT/GLEW) and the CImg toolkit.
 
-![Gameplay Sketch](screenshot.png)
-
 ## Features
 
 * **OpenGL / FreeGLUT rendering** with basic primitives: squares, triangles, circles, rounded rectangles, torus
